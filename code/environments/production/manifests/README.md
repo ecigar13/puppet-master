@@ -1,0 +1,1 @@
+The default node is a special value for node names. If no node statement matching a given node name can be found, the default node will be used, making it an easy way to ensure compilation for any node will be successful. In Puppet, a given agent will only get the contents of one node definition.
